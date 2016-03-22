@@ -1,0 +1,13 @@
+Testsuite: testingpractice.UserPersistenceIntegrationSpec
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0,302 sec
+------------- Standard Output ---------------
+--Output from count grades for an specific user--
+--Output from get grades average for an specific user--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from count grades for an specific user--
+--Output from get grades average for an specific user--
+------------- ---------------- ---------------
+
+Testcase: count grades for an specific user took 0,279 sec
+Testcase: get grades average for an specific user took 0,022 sec

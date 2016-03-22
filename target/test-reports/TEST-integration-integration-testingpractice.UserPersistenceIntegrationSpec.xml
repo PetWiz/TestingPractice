@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="acaz-PC" name="testingpractice.UserPersistenceIntegrationSpec" tests="2" time="0.302" timestamp="2016-03-17T14:26:25">
+  <properties />
+  <testcase classname="testingpractice.UserPersistenceIntegrationSpec" name="count grades for an specific user" time="0.279" />
+  <testcase classname="testingpractice.UserPersistenceIntegrationSpec" name="get grades average for an specific user" time="0.022" />
+  <system-out><![CDATA[--Output from count grades for an specific user--
+--Output from get grades average for an specific user--
+]]></system-out>
+  <system-err><![CDATA[--Output from count grades for an specific user--
+--Output from get grades average for an specific user--
+]]></system-err>
+</testsuite>
