@@ -1,7 +1,0 @@
---Output from testing periods size--
---Output from testing periods name--
---Output from getPeriods accepts null values--
---Output from get subjects size--
---Output from get subjects PAPA--
---Output from get subjects PA--
---Output from get progress--

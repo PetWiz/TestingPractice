@@ -1,2 +1,6 @@
 --Output from count grades for an specific user--
 --Output from get grades average for an specific user--
+--Output from get grades average for a group of user--
+[3.4, 3.7142857143, 3.75, 3.8571428571, 3.6666666667]--Output from get PA--
+[5, 2]
+3.5

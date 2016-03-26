@@ -1,13 +1,21 @@
 Testsuite: testingpractice.UserPersistenceIntegrationSpec
-Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0,302 sec
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1,057 sec
 ------------- Standard Output ---------------
 --Output from count grades for an specific user--
 --Output from get grades average for an specific user--
+--Output from get grades average for a group of user--
+[3.4, 3.7142857143, 3.75, 3.8571428571, 3.6666666667]--Output from get PA--
+[5, 2]
+3.5
 ------------- ---------------- ---------------
 ------------- Standard Error -----------------
 --Output from count grades for an specific user--
 --Output from get grades average for an specific user--
+--Output from get grades average for a group of user--
+--Output from get PA--
 ------------- ---------------- ---------------
 
-Testcase: count grades for an specific user took 0,279 sec
-Testcase: get grades average for an specific user took 0,022 sec
+Testcase: count grades for an specific user took 0,836 sec
+Testcase: get grades average for an specific user took 0,048 sec
+Testcase: get grades average for a group of user took 0,089 sec
+Testcase: get PA took 0,069 sec

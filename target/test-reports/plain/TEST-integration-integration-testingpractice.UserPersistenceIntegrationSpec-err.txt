@@ -1,2 +1,4 @@
 --Output from count grades for an specific user--
 --Output from get grades average for an specific user--
+--Output from get grades average for a group of user--
+--Output from get PA--

@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="acaz-PC" name="testingpractice.UserPersistenceIntegrationSpec" tests="2" time="0.302" timestamp="2016-03-17T14:26:25">
+<testsuite errors="0" failures="0" hostname="AceMaster" name="testingpractice.UserPersistenceIntegrationSpec" skipped="0" tests="4" time="1.057" timestamp="2016-03-26T23:14:36">
   <properties />
-  <testcase classname="testingpractice.UserPersistenceIntegrationSpec" name="count grades for an specific user" time="0.279" />
-  <testcase classname="testingpractice.UserPersistenceIntegrationSpec" name="get grades average for an specific user" time="0.022" />
+  <testcase classname="testingpractice.UserPersistenceIntegrationSpec" name="count grades for an specific user" time="0.836" />
+  <testcase classname="testingpractice.UserPersistenceIntegrationSpec" name="get grades average for an specific user" time="0.048" />
+  <testcase classname="testingpractice.UserPersistenceIntegrationSpec" name="get grades average for a group of user" time="0.089" />
+  <testcase classname="testingpractice.UserPersistenceIntegrationSpec" name="get PA" time="0.069" />
   <system-out><![CDATA[--Output from count grades for an specific user--
 --Output from get grades average for an specific user--
+--Output from get grades average for a group of user--
+[3.4, 3.7142857143, 3.75, 3.8571428571, 3.6666666667]--Output from get PA--
+[5, 2]
+3.5
 ]]></system-out>
   <system-err><![CDATA[--Output from count grades for an specific user--
 --Output from get grades average for an specific user--
+--Output from get grades average for a group of user--
+--Output from get PA--
 ]]></system-err>
 </testsuite>

@@ -10,6 +10,6 @@ class User {
         code nullable: false
         mail nullable: false
         name nullable: false
-        subjects nullable: true
+        subjects nullable: false
     }
 }

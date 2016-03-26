@@ -9,6 +9,6 @@ class Subject {
     static constraints = {
         code nullable: false
         name nullable: false
-        grade nullable: true, min: 0, max: 5
+        grade nullable: false
     }
 }
